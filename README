@@ -1,0 +1,10 @@
+clearly, still a work in progress
+
+dependencies: 
+  -python > 2.6 (note that with 3.0, the print primitive is gone, replaced by
+    the print() function, please fix...)
+  -faad
+  -python mutagen
+  -LAME
+  -mplayer
+
